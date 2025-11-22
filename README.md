@@ -2,10 +2,6 @@
 I'm currently studying Applied AI & Analytics. I love drawing (specifically birds), reading books and listening to music.</br>
 🌱 I'm currently learning Web Development, Data Analytics, Machine Learning and more!
 
-
-<!-- ## Socials: -->
-<!--[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]() -->
-
 ## Tech Stack:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -22,12 +18,3 @@ I'm currently studying Applied AI & Analytics. I love drawing (specifically bird
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
   <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
 </div>
-
-## GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=zonghhh&theme=ayu-mirage&hide_border=true)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zonghhh&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=zonghhh&icon=0&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
