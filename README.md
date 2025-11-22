@@ -1,6 +1,6 @@
 # 🕊️ About Me:
 I'm currently studying Applied AI & Analytics. I love drawing (specifically birds), reading books and listening to music.</br>
-🌱 I'm currently learning Web Development, Data Analytics, Machine Learning and more!
+🌱 Currently learning Web Development, Data Analytics, Machine Learning and more!
 
 ## Tech Stack:
 <div align="left">
