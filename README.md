@@ -8,3 +8,6 @@ I'm currently studying Applied AI & Analytics. I love drawing (specifically bird
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
 </div>
+<br>
+
+![](https://komarev.com/ghpvc/?username=zonghhh)
