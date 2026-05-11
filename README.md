@@ -7,6 +7,6 @@ I'm currently studying Applied AI & Analytics. Currently Learning Data Science, 
 
 ## My interests:
 - Drawing, mostly just birds though
-- Reading books, "Tastes Like War" by Grace M. Cho was pretty good i think
+- Reading books, "Tastes Like War" by Grace M. Cho is a good one
 - Music, ye just music
 - NixOS, i find it really cool im still a complete beginner though
