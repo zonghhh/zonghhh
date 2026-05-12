@@ -1,5 +1,5 @@
 ## CAW CAW 🕊️:
-I'm currently studying Applied AI & Analytics. Currently Learning Data Science, Machine Learning and more!
+I'm currently studying Applied AI & Analytics. Currently Learning Data Science, Machine Learning and a lil bit of CyberSecurity (can't hurt :D)!
 
 ## Tech Stack:
 - Python (mostly for data science & machine learning stuff)
